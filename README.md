@@ -1,8 +1,9 @@
 # Hi, I am Jonas Amoah 
 ## About me
 
+### I am a certified Data Analyst
+
 Data Analyst | HR Analytics | Corporate Analyst
-I am a certified Data Analyst
 
 | column 1 | column 2 |
 |----------|----------|
